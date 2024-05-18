@@ -9,7 +9,7 @@ console.log(myName);
 let isStudent = true;
 console.log(isStudent);
 
-const myString = 'Талант — це дар, якому неможливо ні навчити, ні навчитися. Іммануїл Кант';
+const myString = 'У цьому світі перемога – це все. Переможець отримує визнання, а той, хто програв, — зречення. Akashi Seijuro';
 console.log(myString);
 
 let myNumber = 35;
